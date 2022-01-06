@@ -48,6 +48,7 @@ node cli
 ```
 
 ### Gameplay
+https://user-images.githubusercontent.com/62070812/148457431-4940d4f3-0856-4a54-a9f9-935d3194ee2c.mov
 
 - Use arrow keys, wasd, or hjkl to control the snake.
 - Collect apples.
